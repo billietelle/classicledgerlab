@@ -1,0 +1,7 @@
+node_modules/
+dist/
+*.log
+FROM alpine:3.18
+CMD ["echo", "ready"]
+FROM alpine:3.18
+CMD ["echo", "ready"]
